@@ -1,0 +1,15 @@
+EN
+
+- Press right-click to place an item
+- Press left-click to remove an item
+- Press Tab to open and close the selector item screen
+
+- Plants grow 2x faster when placed over fertilized soil
+
+PT-BR
+
+- Clique com o botão direito para posicionar um item
+- Clique com o botão esquerdo para remover um item
+- Pressione Tab para abrir e fechar a tela de seleção de itens
+
+- Plantas crescem 2x mais rápido quando colocadas sobre adubo
